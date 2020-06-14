@@ -1,0 +1,15 @@
+current directory: /home/yuuki/markdown_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/home/yuuki/.rbenv/versions/2.6.6/bin/ruby -I /home/yuuki/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20200614-5625-18gk4mj.rb extconf.rb
+creating Makefile
+
+current directory: /home/yuuki/markdown_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/yuuki/markdown_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/yuuki/markdown_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20200614-5625-18t9tld/skiptrace/internal
